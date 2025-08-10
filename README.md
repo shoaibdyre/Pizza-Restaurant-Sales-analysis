@@ -1,9 +1,11 @@
 # Pizza-Restaurant-Sales-analysis
 
 Project Description
+
 This project analyzes transactional data for Plato's Pizza, a Greek-inspired pizza restaurant in New Jersey, to identify opportunities for improving operations and increasing sales.
 
 Business Challenge
+
 As a BI Consultant,
 
   Identify peak business days and time
@@ -12,6 +14,7 @@ As a BI Consultant,
   Calculate average order values
 
 Key Deliverables
+
 The analysis addresses four core questions from the restaurant manager:
 
   Busiest days and times analysis
@@ -20,12 +23,14 @@ The analysis addresses four core questions from the restaurant manager:
   Average order value calculation
 
 Skills Demonstrated
+
     Business intelligence consulting
     Data analysis for operational improvements
     Sales optimization strategies
     Restaurant performance metrics
 
 Outcome
+
 The project provides actionable insights to help Plato's Pizza:
 
    Optimize staff scheduling
